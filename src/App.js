@@ -29,7 +29,6 @@ function App() {
     return zodiacSigns[(year - startYear) % 12];
   }
 
-  // code sjx
   return (
     <div className="App">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
